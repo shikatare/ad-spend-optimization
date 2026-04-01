@@ -21,7 +21,7 @@ def load_models():
     models = {}
     model_paths = {
         "Linear Regression": "model/linear_regression_model.pkl",
-        "Random Forest": "model/ad_spend_optimizer.pkl",
+        "Random Forest": "model/random_forest_model.pkl",
         "Decision Tree": "model/decision_tree_model.pkl",
         "XGBoost": "model/xgboost_model.pkl"
     }
